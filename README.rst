@@ -45,6 +45,12 @@ Home Page
 
 http://code.google.com/p/jscryptolib/
 
+Authors
+-------
+
+* jscrypto: `Guan, Zhi`_
+* jsaes: `Bertram Poettering`_
+
 Licence
 -------
 
@@ -56,6 +62,5 @@ text of the GNU General Public License, v2.  `
 
 .. _WebIBC: http://webibc.appspot.com/
 .. _COPYING.GPL2: COPYING.GPL2
-
-
-
+.. _Guan, Zhi: http://infosec.pku.edu.cn/~guanzhi/
+.. _Bertram Poettering: http://point-at-infinity.org/
